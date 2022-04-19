@@ -1,1 +1,2 @@
-# DA3_Game1B
+# DA3_Game 1
+Polished game from last week.
